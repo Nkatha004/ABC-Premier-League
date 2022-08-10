@@ -1,0 +1,9 @@
+﻿  Hackathon.cpp
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nkatha\source\repos\Hackathon\Hackathon\Hackathon.cpp(206): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Hackathon.vcxproj -> C:\Users\Nkatha\source\repos\Hackathon\Debug\Hackathon.exe
